@@ -1,6 +1,6 @@
 # BikeLab
 
-Online marketplace for bike lovers. Check it out [here!](https://bikelabwebplace.herokuapp.com/)  
+Online marketplace for bike lovers. Check it out [here!](http://bike-lab.herokuapp.com)  
 
 Made with Node + Express + React + Mongo  
 
