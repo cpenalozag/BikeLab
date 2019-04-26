@@ -64,6 +64,8 @@ class Login extends Component {
   render()
   {
 
+    /*aqui podrias implementar um api?*/
+    
     if (this.state.redirectToReferrer || sessionStorage.getItem("userData")) {
       return (
         <Redirect to={"/"}/>
